@@ -1,7 +1,11 @@
-#BOSAGORA token
+#BSC BEP20 BOSAGORA token
 
-BOSAGORA is a standard ERC-20 token.
+This is generated in a 1:1 ratio on the Binance smart chain by peg the ETH network ERC20 BOA token.
 
-Made by BOS Platform Foundation
+Reference source link
+https://github.com/binance-chain/bsc-genesis-contract/blob/3b1ed714e189a8fa4b482211f0a07053517b0dde/contracts/bep20_template/BEP20Token.template
 
-https://etherscan.io/token/0x746DdA2ea243400D5a63e0700F190aB79f06489e
+_name = "Binance-Peg BOSAGORA Token";
+_symbol = "BOA";
+_decimals = 7;
+_totalSupply = 10000000000000;
